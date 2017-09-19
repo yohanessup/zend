@@ -29,57 +29,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library name="PHP" type="php">
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/composer" />
-          <root url="file://$MODULE_DIR$/vendor/container-interop/container-interop" />
-          <root url="file://$MODULE_DIR$/vendor/firebase/php-jwt" />
-          <root url="file://$MODULE_DIR$/vendor/multidots/zf3-rest-api" />
-          <root url="file://$MODULE_DIR$/vendor/psr/container" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-component-installer" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-config" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-db" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-escaper" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-eventmanager" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-http" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-json" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-loader" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-modulemanager" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-mvc" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-router" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-servicemanager" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-stdlib" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-uri" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-validator" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-view" />
-          <root url="file://$MODULE_DIR$/vendor/zfcampus/zf-development-mode" />
-        </CLASSES>
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/composer" />
-          <root url="file://$MODULE_DIR$/vendor/container-interop/container-interop" />
-          <root url="file://$MODULE_DIR$/vendor/firebase/php-jwt" />
-          <root url="file://$MODULE_DIR$/vendor/multidots/zf3-rest-api" />
-          <root url="file://$MODULE_DIR$/vendor/psr/container" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-component-installer" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-config" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-db" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-escaper" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-eventmanager" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-http" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-json" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-loader" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-modulemanager" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-mvc" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-router" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-servicemanager" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-stdlib" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-uri" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-validator" />
-          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-view" />
-          <root url="file://$MODULE_DIR$/vendor/zfcampus/zf-development-mode" />
-        </SOURCES>
-      </library>
-    </orderEntry>
   </component>
 </module>
